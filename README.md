@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shumonbalok
+- 🌱 Certified Laravel web developer and mobile app developer
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning app development
 - 💞️ I’m looking to collaborate on web development
 - 📫 Reach me https://shumonbalok.github.io/portfolio/
 
